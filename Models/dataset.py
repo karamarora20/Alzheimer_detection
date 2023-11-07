@@ -1,4 +1,3 @@
-
 def load_train_data():
     """
     This function loads a dataset of images from a specified path, resizes the images, 
