@@ -1,7 +1,9 @@
-# Alzheimer Detection with Sequential Model
+# Alzheimer Detection from MRI Images using CNN
 
 This code is designed to perform Alzheimer's disease detection using a Sequential Convolutional Neural Network (CNN). The dataset includes images categorized into four classes: 'MildDemented', 'ModerateDemented', 'NonDemented', and 'VeryMildDemented'. The code demonstrates loading and preprocessing the data, creating a Sequential CNN architecture, training the model, and evaluating its performance.
 
+
+The dataset used for the project is [here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook or Colab environment
